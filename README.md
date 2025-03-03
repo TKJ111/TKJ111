@@ -1,6 +1,8 @@
-# 🚀 Welcome to TK Web Solutions GitHub Profile!
+# 🚀 Welcome to TK Web Solutions founders GitHub Profile!
 
-Hello! I'm a passionate **web developer** and the founder of **TK Web Solutions**. I specialize in creating **user-friendly, custom websites** that help businesses and individuals establish a strong online presence. Whether you're a **startup**, **small business**, or just someone looking to improve your **personal brand**, I’ve got the skills and tools to help you succeed!
+Hello! My name is Tomi and im 18 years old.
+
+I'm a passionate **web developer** and the founder of **TK Web Solutions**. I specialize in creating **user-friendly, custom websites** that help businesses and individuals establish a strong online presence. Whether you're a **startup**, **small business**, or just someone looking to improve your **personal brand**, I’ve got the skills and tools to help you succeed!
 
 ## 💻 About Me
 
