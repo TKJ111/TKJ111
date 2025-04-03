@@ -9,6 +9,7 @@
   - SEO best practices
   - Performance optimization
   - User experience design
+  - Wordpress
 
 ## 📞 Connect with Me
 
